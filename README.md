@@ -50,5 +50,5 @@ $ npm run test:cov
 
 ## Aplication
 Now you can see the aplication running in your localhost: http://localhost:3000/users
-or you can see this in https://nest-users-be.herokuapp.com/users
+or you can see this in https://nest-user-be.herokuapp.com/users
 
